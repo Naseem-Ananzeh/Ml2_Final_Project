@@ -20,7 +20,7 @@ Applied Methods :- ( PCA , t-SNE )
 Applied Methods :- ( KMeans , KMeans++ , MiniBatchKMeans , DBSCAN )
 
 3. Anomaly Detection ( Credit_Card Dataset )
-- Applied Methods :- ( Isolation Forest , OneClassSVM)
+- Applied Methods :- ( Isolation Forest , OneClassSVM )
 - Evaluated by using :- ( Precision, Recall, F1-Score , Confusion Matrix )
 - Analyzed How unsupervised models detect fraud vs. true labels.
 - which method performs better, and why.
